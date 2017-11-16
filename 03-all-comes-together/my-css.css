@@ -1,0 +1,22 @@
+p {
+    font-family: Arial, Helvetica;
+    color: rebeccapurple;
+    font-weight: normal;
+}
+
+p b {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+#warning {
+    font-weight: bold;
+    color: crimson;
+}
+.subheading {
+    color: blue;
+}
+
+h1 {
+    color: #FF0000;
+}
